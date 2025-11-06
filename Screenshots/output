@@ -1,0 +1,43 @@
+Here’s a clear way to **describe the output title** for your **Real-Time Chat Application** project:
+
+---
+
+### **Output Title: Real-Time Chat Application**
+
+---
+
+### **Description:**
+
+The output of this project demonstrates a **fully functional real-time chat system** that allows multiple users to communicate instantly over the internet. The application provides a **user-friendly interface** where users can log in, join chat rooms, and exchange messages without delay.
+
+---
+
+### **Main Features Shown in the Output:**
+
+1. **User Login/Signup Interface** – Secure authentication screen for new and existing users.
+2. **Chat Dashboard** – Displays online users and active chat rooms.
+3. **Instant Messaging Window** – Real-time message exchange using WebSockets or Firebase.
+4. **Typing Indicator** – Shows when another user is typing a message.
+5. **Message Timestamps** – Displays when each message was sent or received.
+6. **Notifications** – Alerts for new messages or user activity.
+7. **Responsive Design** – Works smoothly on both mobile and desktop browsers.
+
+---
+
+### **Expected Output Screenshot Description:**
+
+* A chat window with two or more users sending and receiving messages instantly.
+* Each message is displayed with the sender’s name, message content, and time.
+* Message alignment differs for sender (right) and receiver (left).
+* Status updates like *“User1 is typing…”* appear dynamically.
+
+---
+
+If you’re preparing this for a **project report**, you can write it as:
+
+> **Output Title:** Real-Time Chat Application
+> **Description:** The output shows a real-time messaging platform where users can send and receive messages instantly through a responsive web interface. It includes features like live message updates, typing indicators, and timestamped chats.
+
+---
+
+Would you like me to format it specifically for your **project documentation (e.g., report or record file)** style?
